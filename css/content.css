@@ -1,0 +1,11 @@
+*{
+    background-image: url("../img/img01.jpg");
+    align-self: center;
+    text-align: center;
+}
+
+.titulo{
+    background-image: none;
+    background: purple;
+    color: white;    
+}
